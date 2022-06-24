@@ -1,7 +1,18 @@
-# Javascript-with-name
-// Write a javascript code that prints out your name, height, and country on the screen
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
 <script>
-console.log('Daisy Sylvia Akinyi')
-console.log('Height: 167cm');
-console.log('Country: Kenya');
+document.write('Daisy Sylvia Akinyi')
+document.write('Height: 167cm');
+document.write('Country: Kenya');
 </script>
+</body>
+
+</html>
